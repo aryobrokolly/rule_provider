@@ -1,4 +1,5 @@
 # Rule Game Update
+# By aryo brokolly
 payload:
   # FreeFire
   - DOMAIN-KEYWORD,freefire

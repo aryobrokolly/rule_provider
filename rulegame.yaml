@@ -1,1 +1,43 @@
-proxies:
+# Rule Game Update
+payload:
+  # FreeFire
+  - DOMAIN-KEYWORD,freefire
+  - DOMAIN-SUFFIX,garena.com
+  - DOMAIN-SUFFIX,avatargarenanow-a.akamaihd.net
+  - DOMAIN-SUFFIX,cdngarenanow-a.akamaihd.net
+  - DOMAIN-SUFFIX,dlmobilegarena-a.akamaihd.net
+  - DOMAIN-SUFFIX,garena.co.id
+  - DOMAIN-SUFFIX,garena.co.th
+  - DOMAIN-SUFFIX,garena.live
+  - DOMAIN-SUFFIX,garena.my
+  - DOMAIN-SUFFIX,garena.ph
+  - DOMAIN-SUFFIX,garena.sg
+  - DOMAIN-SUFFIX,garena.tv
+  - DOMAIN-SUFFIX,garena.tw
+  - DOMAIN-SUFFIX,garena.vn
+  - DOMAIN-SUFFIX,garenanow.com
+  - DOMAIN-SUFFIX,seagroup.com
+  # PUBG
+  - DOMAIN-SUFFIX,pubgmobile.com  
+  - DOMAIN-SUFFIX,igamecj.com
+  - DOMAIN,file-igamecj.akamaized.net
+  # ML
+  - DOMAIN-KEYWORD,youngjoygame
+  - DOMAIN-SUFFIX, youngjoygame.com
+  - DST-PORT,21368
+  - DST-PORT,9993
+  - DST-PORT,1194
+  - DST-PORT,29039
+  - DST-PORT,15252
+  - DST-PORT,21368
+  - DST-PORT,5557
+  #UDP
+  - DST-PORT,5504
+  - DST-PORT,6789
+  #in game
+  - DST-PORT,5507
+  - DST-PORT,30220
+  - DST-PORT,10003
+   #setelah maen
+   #UDP
+  - DST-PORT,30190

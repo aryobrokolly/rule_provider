@@ -1,11 +1,4 @@
 payload:
-  #LUDO
-  - DOMAIN-KEYWORD,ludo
-  - DOMAIN-SUFFIX,ludokingapi.com
-  - DOMAIN-SUFFIX,adtilt.com
-  - DOMAIN-SUFFIX,inmobi.com
-  - DOMAIN-SUFFIX,applovin.com
- - DOMAIN-SUFFIX,inner-active.mobi
   #ML
   - DOMAIN-KEYWORD,youngjoygame
   - DOMAIN-SUFFIX,youngjoygame.com

@@ -1,4 +1,12 @@
 payload:
+  #Port_AOV
+  - DST-PORT,5008
+  - DST-PORT,8700
+  - DST-PORT,10000
+  - DST-PORT,10004
+  - DST-PORT,18082
+  - DST-PORT,20081
+  - DST-PORT,20001
   #LUDO
   - DOMAIN-KEYWORD,ludo
   - DOMAIN-SUFFIX,ludokingapi.com

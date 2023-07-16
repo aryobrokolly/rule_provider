@@ -6,7 +6,6 @@ payload:
   - DOMAIN-SUFFIX,inmobi.com
   - DOMAIN-SUFFIX,applovin.com
   - DOMAIN-SUFFIX,inner-active.mobi
-  - DOMAIN-SUFFIX,inner-active2.mobi
   #ML
   - DOMAIN-KEYWORD,youngjoygame
   - DOMAIN-SUFFIX,youngjoygame.com

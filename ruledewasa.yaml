@@ -1,5 +1,7 @@
 # Update block rule dewasa
 # Suport by aryo brokolly
+# Rule Providers Type : file atau http jika gunakan raw
+# Rule Behavior : domain
 payload:
 - "+.0plkijj.vip"
 - "+.114av.xyz"
